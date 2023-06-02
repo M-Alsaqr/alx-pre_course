@@ -1,2 +1,2 @@
 # alx-pre_course
-This repo is created to finish 0x01. Git task
+I'm now a ALX Student, this is my first repository as a full-stack engineer
